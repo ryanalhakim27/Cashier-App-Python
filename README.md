@@ -50,10 +50,7 @@ You add two Ayam Goreng at price 30000 per head and three Pasta Gigi at price 15
 ### 3. Check all Item in Order List
 
 After you add all items to order list, you can check your order list using method `check_order()`.
-<br>It will give you order list like this:
-<br>
-<br>
-![Image title](order_list.png)
+
 
 ### 4. Check Your Bill
 
@@ -63,9 +60,7 @@ These are the discount conditions:
 <br>1.You get 5% discount when total pay is between Rp200.000,00 and Rp300.000,00.
 <br>2.You get 8% total pay is between Rp300.000,00 and Rp500.000,00.
 <br>3.You get 10% when total pay is above Rp500.000,00
-<br>
-<br>
-![Image title](total_price.png)
+
 
 ## Update Your Transaction
 
@@ -130,5 +125,3 @@ You can remove all item in order list by reset the transaction.
 </pre>
 All of item in transaction 1 is removed.
 <br>
-<br>
-Please see the [References](reference.md) for further details.
